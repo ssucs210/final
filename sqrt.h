@@ -1,0 +1,3 @@
+
+double sqrt(double value);
+
